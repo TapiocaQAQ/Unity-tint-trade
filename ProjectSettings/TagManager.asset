@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - attacker
+  - defender
+  - playerBattle
+  - attackerAttack
+  - defenderAttack
+  - slime
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map Terrain
+    uniqueID: 2731317947
+    locked: 0
+  - name: Map Object
+    uniqueID: 1675996653
+    locked: 0
+  - name: Unit
+    uniqueID: 883166561
+    locked: 0
+  - name: effect
+    uniqueID: 424972113
+    locked: 0
