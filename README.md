@@ -1,0 +1,1 @@
+[![village hero fight with the tint slimes](https://i.ytimg.com/vi/0GoHcQnhcSs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLABvDOnUXBPYrmHYp4EzWgfc71p4g)](https://www.youtube.com/watch?v=0GoHcQnhcSs "Everything Is AWESOME")
